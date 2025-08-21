@@ -1,0 +1,14 @@
+[project]
+name = "pylearn-voice-recorder-cli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "click>=8.2.1",
+    "rich>=14.1.0",
+    "scipy>=1.16.1",
+    "sounddevice>=0.5.2",
+    "soundfile>=0.13.1",
+    "wavio>=0.0.9",
+]
