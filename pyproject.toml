@@ -12,3 +12,14 @@ dependencies = [
     "soundfile>=0.13.1",
     "wavio>=0.0.9",
 ]
+
+[project.scripts]
+voice-recorder = "voice_recorder.cli:app"
+
+[tool.uv]
+package = true
+dev-dependencies = [
+    "pre-commit>=3.7",
+    "ruff>=0.5",
+    "black>=24.3",
+]

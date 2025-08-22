@@ -16,4 +16,6 @@ Thumbs.db
 build/
 dist/
 
-
+#ignore All Audio Output
+recordings/*
+!recordings/.gitkeep

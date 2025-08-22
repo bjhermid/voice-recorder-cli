@@ -1,0 +1,10 @@
+{
+    //gunakan intepreter dari .venv
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    // Aktifkan environment otomatis di terminal VS Code
+    "python.terminal.activateEnvironment": true,
+    // pytest
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": true,
+}
