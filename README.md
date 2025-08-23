@@ -16,7 +16,7 @@ Dalam proses pada mini project ini berfokus untuk mempelajari **alur dari *scrat
  6. Inisiasi Project dari awal
  7. Basic CI Pipeline dengan (Pre-commit dan Ruff) menggunakkan uv/uvx
  8. Belajar CLI dengan click dan rich.
- 9. Menulis.
+ 9. dan lainnya.
 
 
 ### Recordings folder
