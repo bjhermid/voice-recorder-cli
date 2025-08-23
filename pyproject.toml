@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-voice-recorder = "voice_recorder.cli:app"
+vrecord = "voice_recorder.cli:app"
 
 [tool.uv]
 package = true
