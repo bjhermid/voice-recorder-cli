@@ -1,4 +1,4 @@
-Siap. Berikut durasi maksimum untuk file ≤ 2 GB (≈ 2,147,483,648 byte), asumsi PCM. Rumus:
+Durasi maksimum untuk file ≤ 2 GB (≈ 2,147,483,648 byte), asumsi PCM. Rumus:
 durasi = 2GB / (sample_rate × channels × bytes_per_sample)
 (16-bit = 2 byte, 24-bit = 3 byte, 32-bit float = 4 byte)
 
